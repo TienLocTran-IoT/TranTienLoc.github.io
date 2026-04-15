@@ -1,6 +1,6 @@
 # Giới thiệu
 
-![Avatar](images/Avatar.jpg){: style="width:200px;" }
+![Avatar](images/Avatar.jpg)
 
 
 
