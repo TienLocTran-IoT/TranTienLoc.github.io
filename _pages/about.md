@@ -1,6 +1,9 @@
 # Giới thiệu
 
-![Avatar](images/Avatar.png)
+![Avatar](images/avatar.jpg){: style="width:200px;" }
+
+
+
 Xin chào, tôi là **Trần Tiến Lộc** – sinh viên ngành **Internet of Things (IoT)** tại **Trường Bưu chính Viễn thông Hồ Chí Minh**.  
 
 ## Lĩnh vực quan tâm
