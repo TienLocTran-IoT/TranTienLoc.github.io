@@ -1,64 +1,32 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
+# Curriculum Vitae
 
-{% include base_path %}
+## Học vấn
+- **Trần Tiến Lộc**
+- Sinh viên ngành **Internet of Things (IoT)**
+- **Trường Bưu chính Viễn thông Hồ Chí Minh**
+- Quan tâm: **AioT (AI + IoT)**, các ứng dụng công nghệ phục vụ cộng đồng
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Kỹ năng
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+| Kỹ năng              | Mức độ / Ghi chú                          |
+|----------------------|--------------------------------------------|
+| Lập trình Arduino    | Thành thạo, nhiều dự án thực tế            |
+| IoT Networking       | Hiểu biết về giao thức MQTT, HTTP, Serial  |
+| Embedded Systems     | Kinh nghiệm với cảm biến LM35, ESP32       |
+| Python               | Sử dụng cho xử lý dữ liệu, mô phỏng        |
+| Git/GitHub           | Quản lý mã nguồn, commit theo chuẩn        |
+| Simulation Tools     | Proteus, Multisim để mô phỏng mạch         |
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Dự án
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Arduino LM35 Temp Monitor**  
+  Đo nhiệt độ bằng cảm biến LM35, truyền dữ liệu qua Serial, hiển thị trên ứng dụng PC.  
+  → Mục tiêu: hỗ trợ cộng đồng sinh viên học IoT.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **Các dự án Arduino cộng đồng**  
+  Chia sẻ mã nguồn, tài liệu, và hướng dẫn để mọi người dễ dàng tiếp cận IoT.  
+  → Tập trung vào tính ứng dụng và khả năng mở rộng.
+
+- **Mô phỏng IoT trên Proteus**  
+  Xây dựng sơ đồ mạch, kiểm thử logic trước khi triển khai thực tế.  
+  → Giúp tiết kiệm thời gian và giảm lỗi phần cứng.
