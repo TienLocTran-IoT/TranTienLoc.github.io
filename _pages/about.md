@@ -1,6 +1,6 @@
 # Giới thiệu
 
-![Avatar](images/Avatar.jpg)
+![Avatar](images/Avatar.png)
 
 
 
